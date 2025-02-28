@@ -46,6 +46,7 @@ Agora o projeto estará rodando em `http://127.0.0.1:8000/` 🎉
 **Criado em 10 minutos para testes de QA** 🕒⚡
 
 ### 🚀 Rodar os testes
+Com a aplicação rodando utilizar o seguinte comando:
 ```bash
 python accounts/tests.py
 ```
